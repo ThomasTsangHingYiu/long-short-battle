@@ -1,1 +1,9 @@
-.vercel
+node_modules/
+.vercel/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.grok/preview.log

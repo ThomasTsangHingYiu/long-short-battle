@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="多空決戰">
+  <rect width="32" height="32" rx="6" fill="#09110e"/>
+  <g fill="#e4b54a">
+    <rect x="6.5" y="4" width="4" height="24"/>
+    <rect x="4" y="8" width="9" height="9" rx="1"/>
+  </g>
+  <g fill="#ef4d4d">
+    <rect x="21.5" y="4" width="4" height="24"/>
+    <rect x="19" y="15" width="9" height="9" rx="1"/>
+  </g>
+</svg>
